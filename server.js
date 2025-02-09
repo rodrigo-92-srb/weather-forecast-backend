@@ -96,7 +96,7 @@ async function fetchAndSaveWeatherData() {
 }
 
 // Configurar cron job para executar a cada 6 horas
-cron.schedule('* * * * *', fetchAndSaveWeatherData);
+cron.schedule('0 */6 * * *', fetchAndSaveWeatherData);
 
 app.listen(port, () => {
   console.log(`Servidor rodando na porta ${port}`);
