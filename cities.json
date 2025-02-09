@@ -1,0 +1,142 @@
+[
+    {
+      "city": "São Paulo",
+      "lat": -23.55052,
+      "lon": -46.633308
+    },
+    {
+      "city": "Rio de Janeiro",
+      "lat": -22.906847,
+      "lon": -43.172896
+    },
+    {
+      "city": "Belo Horizonte",
+      "lat": -19.916681,
+      "lon": -43.934493
+    },
+    {
+      "city": "Brasília",
+      "lat": -15.7801,
+      "lon": -47.9292
+    },
+    {
+      "city": "Salvador",
+      "lat": -12.9714,
+      "lon": -38.5014
+    },
+    {
+      "city": "Fortaleza",
+      "lat": -3.71722,
+      "lon": -38.5431
+    },
+    {
+      "city": "Curitiba",
+      "lat": -25.4296,
+      "lon": -49.2713
+    },
+    {
+      "city": "Manaus",
+      "lat": -3.119,
+      "lon": -60.0217
+    },
+    {
+      "city": "Recife",
+      "lat": -8.0476,
+      "lon": -34.877
+    },
+    {
+      "city": "Belém",
+      "lat": -1.455,
+      "lon": -48.502
+    },
+    {
+      "city": "Porto Alegre",
+      "lat": -30.0346,
+      "lon": -51.2177
+    },
+    {
+      "city": "Goiânia",
+      "lat": -16.6869,
+      "lon": -49.2648
+    },
+    {
+      "city": "São Luís",
+      "lat": -2.5297,
+      "lon": -44.3028
+    },
+    {
+      "city": "Maceió",
+      "lat": -9.66599,
+      "lon": -35.735
+    },
+    {
+      "city": "Natal",
+      "lat": -5.795,
+      "lon": -35.208
+    },
+    {
+      "city": "Teresina",
+      "lat": -5.0892,
+      "lon": -42.8019
+    },
+    {
+      "city": "João Pessoa",
+      "lat": -7.115,
+      "lon": -34.863
+    },
+    {
+      "city": "Campo Grande",
+      "lat": -20.4697,
+      "lon": -54.6201
+    },
+    {
+      "city": "Cuiabá",
+      "lat": -15.6014,
+      "lon": -56.0979
+    },
+    {
+      "city": "Aracaju",
+      "lat": -10.9472,
+      "lon": -37.0731
+    },
+    {
+      "city": "Florianópolis",
+      "lat": -27.5954,
+      "lon": -48.548
+    },
+    {
+      "city": "Boa Vista",
+      "lat": 2.82384,
+      "lon": -60.6753
+    },
+    {
+      "city": "Macapá",
+      "lat": 0.0389,
+      "lon": -51.0664
+    },
+    {
+      "city": "Palmas",
+      "lat": -10.24,
+      "lon": -48.3558
+    },
+    {
+      "city": "Rio Branco",
+      "lat": -9.97499,
+      "lon": -67.8243
+    },
+    {
+      "city": "Porto Velho",
+      "lat": -8.76194,
+      "lon": -63.9039
+    },
+    {
+      "city": "Vitória",
+      "lat": -20.3155,
+      "lon": -40.3128
+    },
+    {
+      "city": "São Miguel do Oeste",
+      "lat": -26.7242,
+      "lon": -53.5161
+    }
+  ]
